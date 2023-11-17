@@ -1,30 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -35,6 +11,66 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Itaituba",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2023-11-16T18:28:08.485Z",
+      "notes": "",
+      "position": {
+        "lat": "-4.915832801313164",
+        "lng": "-56.953125"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Riofrio de Aliste",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-16T18:35:14.102Z",
+      "notes": "",
+      "position": {
+        "lat": "41.83682786072714",
+        "lng": "-6.262207031250001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Manaus",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2023-11-17T09:19:35.813Z",
+      "notes": "",
+      "position": {
+        "lat": "-1.7136116598836224",
+        "lng": "-59.47998046875001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Zandov",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2023-11-17T10:11:41.772Z",
+      "notes": "",
+      "position": {
+        "lat": "50.708634400828224",
+        "lng": "14.39208984375"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Villaseca de Arciel",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-17T10:14:38.612Z",
+      "notes": "",
+      "position": {
+        "lat": "41.60722821271717",
+        "lng": "-2.1313476562500004"
+      },
+      "id": 98443205
     }
   ]
 }
